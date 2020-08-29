@@ -1,5 +1,5 @@
-# zerro's webpage
-### 全新出发
+# zerro's website
+
 > 其实就是记录下自己搞的骚操作
 
 我有什么办法嘛，coding的page托管给的域名是随机的，还是github爸爸爱我！
@@ -19,5 +19,9 @@ Follow me:
 - [Hello world](helloworld)
 
 - [bangdream防沉迷破解](bangdreamantiaddiction)
+
+- [mi5s刷机](miflash)
+
+- [超级牛逼的网页](webpage)
 
 _powered by [docsify](https://github.com/docsifyjs/docsify/)_
